@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Currently, I just defended my master's thesis and I am waiting for my MSc degree. Therefore, the next step is preparing for doctoral studies. Although my English is at an intermediate level and I need to improve it a lot before applying any graduate degree programs, I am very glad to get to know and collaborate with everyone, especially the community of cryptologic research.
 
-# My dissertaions
+# My dissertations
 
 - Ring-GSW Fully Homomorphic Encryption and Apply to Multi-Party Computation.
 - Post-quantum Graded Signatures.
