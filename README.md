@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # My plan
 
-I've graduated with my MSC in Computer Science, and I plan to continue my studies in doctoral research.
+I've graduated with my MSc in Computer Science, and I plan to continue my studies in doctoral research.
 While my English is at an intermediate level, I recognize I still need to improve it further before applying to graduate programs.
 However, I'm very excited to learn from and collaborate with everyone, especially the cryptologic research community.
 
